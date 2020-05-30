@@ -1,1 +1,1 @@
-# transferlearning-finetuning-resnet50-model
+# Transfer Learning (Fine-Tuning) ResNet50 Model
